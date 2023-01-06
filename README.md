@@ -11,3 +11,7 @@ tcpdump, packet dumping toolkit.<br><br>
 
 <strong>Info</strong>
 > Metasploit has been removed due to constant errors caused by the script updates.
+
+<strong>Usage</strong>
+Execute this command;
+>bash ttools.sh
